@@ -17,5 +17,6 @@ A high-level automation framework based on SOLID principles and design patterns.
 
 ```bash
 npm install
+npx playwright install
 npx playwright test
 ```
